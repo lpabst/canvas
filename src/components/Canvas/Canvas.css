@@ -1,0 +1,35 @@
+.canvas_page{
+    width: 100%;
+    min-width: 1650px;
+    position: relative;
+    padding: 90px 0px 50px 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#home_link{
+    width: 150px;
+    height: 40px;
+    padding-top: 10px;
+    font-size: 20px;
+    background: #000;
+    color: #ffcccc;
+    border: 1px solid #cc0011;
+    border-radius: 4px;
+    position: absolute;
+    left: calc(50% - 75px);
+    top: 15px;
+    text-align: center;
+}
+
+.canvas{
+    display: inline-block;
+    margin: 5px 20px;
+}
+
+#canvas4{
+    border: 1px solid green;
+} 
